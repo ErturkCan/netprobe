@@ -268,10 +268,10 @@ Bytes 12+:    Variable payload
 - Calculates latency increase ratios for p50, p99, and max
 - Classifies severity: None, Mild, Moderate, Severe
 - Thresholds:
-  - Severe: p99 > 5.0x increase
-  - Moderate: p99 > 3.0x increase
-  - Mild: p99 > 1.5x OR p50 > 2.0x increase
-  - None: Below thresholds
+ - Severe: p99 > 5.0x increase
+ - Moderate: p99 > 3.0x increase
+ - Mild: p99 > 1.5x OR p50 > 2.0x increase
+ - None: Below thresholds
 
 ### Output Formatters
 
